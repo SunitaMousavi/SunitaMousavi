@@ -29,6 +29,6 @@ I am a self-taught programmer and a student of English Translation Studies, pass
     •	[Instagram](https://www.instagram.com/sunitavii/) <br/>
 
 ⸻
-
+<!--https://github.com/anuraghazra/github-readme-stats-->
   ![Sunita's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunitamousavi&show_icons=true&theme=transparent)
 
