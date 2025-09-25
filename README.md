@@ -26,6 +26,9 @@ I am a self-taught programmer and a student of English Translation Studies, pass
   **📫 Connect With Me** <br/>
 	•	GitHub <br/>
 	•	[LinkedIn](https://www.linkedin.com/in/sunita-mousavi-1ba383351/) <br/>
-  •	[Instagram](https://www.instagram.com/sunitavii/) <br/>
-  
+    •	[Instagram](https://www.instagram.com/sunitavii/) <br/>
+
+⸻
+
+  ![Sunita's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunitamousavi&show_icons=true&theme=transparent)
 
