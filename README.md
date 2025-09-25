@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I’m Sunita 👋
 
-<!--
-**SunitaMousavi/SunitaMousavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-taught programmer and a student of English Translation Studies, passionate about developing React-based web applications and exploring Natural Language Processing (NLP) for multilingual text processing.
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💻 Skills & Tools** <br/>
+	•	Front-End: React, HTML, CSS, JavaScript (ES6+), Responsive Design <br/>
+	•	APIs & Data: REST APIs, Axios, JSON<br/>
+	•	Tools: Git, GitHub, VS Code, Chrome DevTools<br/>
+
+⸻
+
+**🌱 Currently Learning** <br/>
+	•	AI & NLP: Text analysis, translation, Python (basic)
+
+⸻
+
+**🔭 What I’m Working On** <br/>
+	•	Building interactive web applications using React<br/>
+	•	Implementing NLP techniques for text processing<br/>
+	•	Preparing projects and research for MEXT/GKS scholarship applications<br/>
+
+⸻
+
+  **📫 Connect With Me** <br/>
+	•	GitHub <br/>
+	•	[LinkedIn](https://www.linkedin.com/in/sunita-mousavi-1ba383351/) <br/>
+  •	[Instagram](https://www.instagram.com/sunitavii/) <br/>
+  
+
